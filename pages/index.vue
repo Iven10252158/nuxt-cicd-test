@@ -5,8 +5,8 @@ const app = useAppConfig()
 
 <template>
   <div>
-    <h1>{{ app.site.name }}</h1>
-    <p>{{ app.site.description }}</p>
+    <!-- <h1>{{ app.site.name }}</h1>
+    <p>{{ app.site.description }}</p> -->
     <NuxtWelcome />
   </div>
 </template>
